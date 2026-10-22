@@ -1,0 +1,22 @@
+
+- explicar la diferencia entre programacion tradicional y aprendizaje automatico
+el aprendizaje automatico viene bien para hacer un modelo predictivo pero no es muy util/recomendable para trabajos monotonos 
+y la programacion tradicional se usaria para esos trabajos mas monotonos o repetitivos.
+
+- en un sistema que predice el consumo electrico de una vivienda, identifica las muestras, las caracteristicas y la etiqueta
+muestras: seria lo que pasa o se consume cada hora
+caracteristicas:voltaje, corriente, potencia de los aparatos conectados, etc
+etiqueta: la energia consumida (kwh)
+
+- clasifica estos problemas como regresion, clasificacion o agrupamiento:
+predecir el precio de un vehiculo: regresion
+determinar si una transaccion es fraudulenta: clasificacion
+agrupar clientes segun sus habitos de compra: agrupamiento
+estinar el tiempo de entrega de un paquete: regresion
+
+- Propon un caso en el que una solucion basada en reglas sea preferible a un modelo de machine learning.
+
+
+- explica porque un modelo que funciona bien con los datos de entrenamiento puede fallar con datos nuevos
+porque con los datos de entrenamiento ya se sabe las respuestas entonces siempre las vas a hacertar pero con datos nuevos no conoce las respuestas
+por eso es mas normal que falle al predecir.
